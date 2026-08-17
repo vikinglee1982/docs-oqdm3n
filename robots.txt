@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-l06pic.koi888win.online/sitemap.xml
